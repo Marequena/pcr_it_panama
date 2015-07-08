@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, Helvetica;
+}
+.body-bg
+{
+    background-color:#000000;
+    background: url(../img/loco5.jpg) no-repeat fixed;
+    //-webkit-background-size: cover;
+    //-moz-background-size: cover;
+    //-o-background-size: cover;
+    background-size: cover;        
+    padding-top: 0px;
+}
+
+.pageSectionWidth {
+    position:relative;
+	margin:0 auto;
+    width:1030px;
+}
+
+.button {
+    margin:0px; 
+    background-color:#2a2b30; 
+    color:#fff;
+    cursor:pointer;
+	width:80px;
+	padding:2px;
+	text-align:center;
+	border:none;
+}
+.log-main {
+	clear:both;
+        margin-top:0px;
+	width:70px;
+	text-align:center;
+}
+.log-box {
+	background-color:#fff;
+	width:215px;
+	height:340px;
+	border:solid 2px #ae9670;
+	text-align:left;
+}

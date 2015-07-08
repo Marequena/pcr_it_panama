@@ -1,0 +1,27 @@
+2014-05-08 22:16:14 Error: [MissingControllerException] Controller class Index2.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'Index2.phpController',
+  'plugin' => NULL,
+)
+Request URL: /cakeblog/index2.php
+Stack Trace:
+#0 C:\xampp\htdocs\cakeblog\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-09 00:18:00 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /cakeblog/posts/index
+Stack Trace:
+#0 C:\xampp\htdocs\cakeblog\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-09 00:18:16 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /cakeblog/posts/index
+Stack Trace:
+#0 C:\xampp\htdocs\cakeblog\app\webroot\index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
